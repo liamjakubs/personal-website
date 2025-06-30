@@ -41,7 +41,28 @@ nav a:hover {
 }
 
 
+.project-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
 
+.project-card h3 {
+    margin-top: 0;
+}
+
+.project-card a {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #3498db;
+    text-decoration: none;
+}
+
+.project-card a:hover {
+    text-decoration: underline;
+}
 
 
 
